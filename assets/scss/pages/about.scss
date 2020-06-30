@@ -1,0 +1,76 @@
+@import '../main';
+
+.splash-container {
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+
+  @media screen and (min-width: $medium) {
+    font-size: 18px;
+  }
+}
+
+.splash {
+  max-width: 47rem;
+
+  h1 {
+    font-size: 3em;
+    line-height: 1;
+    letter-spacing: -0.03em;
+    margin: 0;
+  }
+
+  h2 {
+    font-size: 2em;
+    font-weight: 500;
+    line-height: 1.25;
+    max-width: 22em;
+    letter-spacing: -0.03em;
+
+    @media screen and (max-width: $medium) {
+      font-size: 1.75em;
+    }
+  }
+}
+
+.main-photo-container {
+  min-height: 300px;
+  min-width: 300px;
+}
+
+.main-photo {
+  border-radius: 50%;
+  max-width: 100%;
+}
+
+
+.fancy {
+  color: $primary;
+}
+
+.handle {
+  display: inline-block;
+  margin-top: 0.275em;
+  color: $grey;
+  letter-spacing: 0.5px;
+}
+
+.writing {
+  text-decoration: none;
+  color: $primary;
+}
+
+/* overrides */
+
+.youtube {
+  height: 30%;
+  padding: 0.75em;
+}
+
+.social-icons {
+  justify-content: flex-start;
+  padding-top: 2rem;
+}
