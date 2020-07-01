@@ -1,6 +1,6 @@
 ---
 heading: "João Antunes"
-image: "https://s.gravatar.com/avatar/9b162b94138aa629417624741c6a5fd0?s=300" 
+image: "https://s.gravatar.com/avatar/9b162b94138aa629417624741c6a5fd0?s=250" 
 title: "João Antunes - @jgantunes"
 subheadings:
   - "Software Engineer at [YLD](https://yld.io)"
@@ -8,9 +8,7 @@ subheadings:
 handle: "jgantunes"
 ---
 
-I'm a person who loves to build, learn and occasionally attempts to be funny (most of the times just to fail miserably).
-
-I've been working in the software industry since 2015. My interests range from web development, to JS and Go, to DevOps, Kubernetes (I'm a [CKA - Certified Kubernetes Administrator](https://www.youracclaim.com/badges/3eec705e-18bb-4f5b-a620-8d0a1883f752)) and P2P technology.
+I'm a person who loves to build, learn and occasionally attempts to be funny (most of the times just to fail miserably). I've been working in the software industry since 2015. My interests range from web development, to JS and Go, to DevOps, Kubernetes (I'm a [CKA - Certified Kubernetes Administrator](https://www.youracclaim.com/badges/3eec705e-18bb-4f5b-a620-8d0a1883f752)) and P2P technology.
 
 Previously I was:
 * Coordinator at [SINFO](https://sinfo.org) (biggest tech event in Portugal)
@@ -24,7 +22,7 @@ Previously I was:
 
 ## Public Talks
 
-<div class="splash-container">
+<div class="youtube-container">
   {{< youtube id="u_N7RURRci8" class="youtube" >}}
   {{< youtube id="uTxRL5ctHNs" class="youtube" >}}
   {{< youtube id="IoV9CWWuV3M" class="youtube" >}}

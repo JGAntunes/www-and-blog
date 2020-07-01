@@ -1,51 +1,55 @@
 @import '../main';
 
-.splash-container {
-  height: 100%;
+.main-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  align-items: center;
   font-size: 14px;
-
   @media screen and (min-width: $medium) {
     font-size: 18px;
   }
 }
 
-.splash {
+.body-container {
   max-width: 47rem;
+  text-align: justify;
+}
 
-  h1 {
-    font-size: 3em;
-    line-height: 1;
-    letter-spacing: -0.03em;
-    margin: 0;
+.header-container {
+  width: 47rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+
+  @media screen and (max-width: $medium) {
+    justify-content: center;
   }
+}
 
-  h2 {
-    font-size: 2em;
-    font-weight: 500;
-    line-height: 1.25;
-    max-width: 22em;
-    letter-spacing: -0.03em;
+.header-text-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
 
-    @media screen and (max-width: $medium) {
-      font-size: 1.75em;
-    }
+  @media screen and (max-width: $medium) {
+    align-items: center;
+    text-align: center;
   }
 }
 
 .main-photo-container {
-  min-height: 300px;
-  min-width: 300px;
+  padding: 1rem;
+  min-height: 250px;
+  min-width: 250px;
 }
 
 .main-photo {
   border-radius: 50%;
   max-width: 100%;
 }
-
 
 .fancy {
   color: $primary;
@@ -63,12 +67,19 @@
   color: $primary;
 }
 
-/* overrides */
+.youtube-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
 
 .youtube {
   height: 30%;
   padding: 0.75em;
 }
+
+/* overrides */
 
 .social-icons {
   justify-content: flex-start;
