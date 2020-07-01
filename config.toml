@@ -3,6 +3,7 @@ languageCode = "en-uk"
 baseURL = "https://jgantunes.com/"
 copyright = "© 2020"
 title = "João Antunes - @jgantunes"
+publishDir = "docs"
 
 # The value "hugo-theme-codex" is only to get the exampleSite
 # to work in this repo. Change to whatever name you gave the theme
