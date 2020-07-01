@@ -3,7 +3,8 @@
 .main-container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  flex-direction: column;
+  align-content: center;
   font-size: 14px;
   @media screen and (min-width: $medium) {
     font-size: 18px;
@@ -16,7 +17,7 @@
 }
 
 .header-container {
-  width: 47rem;
+  max-width: 47rem;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
