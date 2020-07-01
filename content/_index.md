@@ -27,3 +27,11 @@ Previously I was:
   {{< youtube id="uTxRL5ctHNs" class="youtube" >}}
   {{< youtube id="IoV9CWWuV3M" class="youtube" >}}
 </div>
+
+<div class="youtube-container-links">
+  <ul>
+    <li> <a href="https://youtu.be/u_N7RURRci8"> Kubernetes ≠ DevOps </a></li>
+    <li> <a href="https://youtu.be/uTxRL5ctHNs"> P2P apps for the web </a></li>
+    <li> <a href="https://youtu.be/IoV9CWWuV3M"> A titleless talk about serverlesss </a></li>
+  </ul>
+</div>
