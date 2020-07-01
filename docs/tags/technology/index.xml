@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>technology on João Antunes - @jgantunes</title>
-    <link>https://jgantunes.github.io/tags/technology/</link>
+    <link>https://jgantunes.github.io/blog/tags/technology/</link>
     <description>Recent content in technology on João Antunes - @jgantunes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>© 2020</copyright>
     <lastBuildDate>Wed, 24 Jun 2020 19:18:55 +0100</lastBuildDate>
     
-	<atom:link href="https://jgantunes.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jgantunes.github.io/blog/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Wassup World</title>
-      <link>https://jgantunes.github.io/blog/wassup-world/</link>
+      <link>https://jgantunes.github.io/blog/blog/wassup-world/</link>
       <pubDate>Wed, 24 Jun 2020 19:18:55 +0100</pubDate>
       
-      <guid>https://jgantunes.github.io/blog/wassup-world/</guid>
+      <guid>https://jgantunes.github.io/blog/blog/wassup-world/</guid>
       <description>So, I guess it was about time to start writing something. Over here you&amp;rsquo;ll find my ramblings about software engineering and tech in general.</description>
     </item>
     

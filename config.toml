@@ -1,6 +1,6 @@
 # Override these settings with your own
 languageCode = "en-uk"
-baseURL = "https://jgantunes.github.io/"
+baseURL = "https://jgantunes.github.io/blog/"
 copyright = "© 2020"
 title = "João Antunes - @jgantunes"
 publishDir = "docs"
