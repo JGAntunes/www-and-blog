@@ -23,6 +23,7 @@ Previously I was:
 ## Public Talks
 
 <div class="youtube-container">
+  {{< youtube id="pP0fS-FCsjE" class="youtube" >}}
   {{< youtube id="u_N7RURRci8" class="youtube" >}}
   {{< youtube id="uTxRL5ctHNs" class="youtube" >}}
   {{< youtube id="IoV9CWWuV3M" class="youtube" >}}
@@ -30,6 +31,7 @@ Previously I was:
 
 <div class="youtube-container-links">
   <ul>
+    <li> <a href="https://youtu.be/pP0fS-FCsjE"> IPFS Testbed and Pulsarcast </a></li>
     <li> <a href="https://youtu.be/u_N7RURRci8"> Kubernetes ≠ DevOps </a></li>
     <li> <a href="https://youtu.be/uTxRL5ctHNs"> P2P apps for the web </a></li>
     <li> <a href="https://youtu.be/IoV9CWWuV3M"> A titleless talk about serverlesss </a></li>
