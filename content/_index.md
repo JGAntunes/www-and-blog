@@ -23,6 +23,7 @@ Previously I was:
 ## Public Talks
 
 <div class="youtube-container">
+  {{< youtube id="D2UKQPKMjr4" class="youtube" >}}
   {{< youtube id="pP0fS-FCsjE" class="youtube" >}}
   {{< youtube id="u_N7RURRci8" class="youtube" >}}
   {{< youtube id="uTxRL5ctHNs" class="youtube" >}}
@@ -31,6 +32,7 @@ Previously I was:
 
 <div class="youtube-container-links">
   <ul>
+    <li> <a href="https://youtu.be/D2UKQPKMjr4"> Pulsarcast: Scalable and reliable pub-sub over P2P networks </a></li>
     <li> <a href="https://youtu.be/pP0fS-FCsjE"> IPFS Testbed and Pulsarcast </a></li>
     <li> <a href="https://youtu.be/u_N7RURRci8"> Kubernetes ≠ DevOps </a></li>
     <li> <a href="https://youtu.be/uTxRL5ctHNs"> P2P apps for the web </a></li>
