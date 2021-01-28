@@ -1,5 +1,5 @@
 [build]
-publish = "build-output/
+publish = "docs"
 
 [[plugins]]
 package = "netlify-plugin-js-obfuscator"
