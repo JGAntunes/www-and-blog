@@ -1,0 +1,25 @@
+{
+  "name": "www-and-blog",
+  "version": "1.0.0",
+  "description": "This is my personal website made using [Hugo](https://gohugo.io/) and based on the [codex](https://themes.gohugo.io/hugo-theme-codex/). It's still a WIP but it's main goal is to be as simple and as easy to maintain as possible.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JGAntunes/www-and-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JGAntunes/www-and-blog/issues"
+  },
+  "homepage": "https://github.com/JGAntunes/www-and-blog#readme",
+  "devDependencies": {
+    "netlify-plugin-js-obfuscator": "^1.0.19"
+  }
+}
