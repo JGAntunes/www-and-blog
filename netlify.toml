@@ -1,6 +1,6 @@
 # example netlify.toml
 [build]
-  command = "env && exit 1"
+  command = "env"
   functions = "functions"
   publish = "docs"
 
@@ -8,7 +8,11 @@
   NETLIFY_BUILD_DEBUG = "true"
   HUGO_VERSION = "0.80.0"
   # BUILD_TELEMETRY_DISABLED = "true"
-  
+
+[[plugins]]
+  # runs QA Wolf tests against the deployed URL
+  package = "netlify-plugin-qawolf"  
+
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
   ## Not needed for static site generators.
   #[[redirects]]
