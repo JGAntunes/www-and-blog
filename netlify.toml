@@ -12,7 +12,7 @@
 
 [[plugins]]
   # runs QA Wolf tests against the deployed URL
-  package = "netlify-plugin-qawolf"  
+  # package = "netlify-plugin-qawolf"  
 
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
   ## Not needed for static site generators.
