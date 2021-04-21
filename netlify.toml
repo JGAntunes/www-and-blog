@@ -10,7 +10,7 @@
   NODE_VERSION = "4"
   # BUILD_TELEMETRY_DISABLED = "true"
 
-[[plugins]]
+# [[plugins]]
   # runs QA Wolf tests against the deployed URL
   # package = "netlify-plugin-qawolf"  
 
