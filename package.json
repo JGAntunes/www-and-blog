@@ -7,6 +7,8 @@
     "doc": "docs"
   },
   "devDependencies": {
+    "@netlify/plugin-edge-handlers": "^1.11.6",
+    "@netlify/plugin-lighthouse": "^2.1.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

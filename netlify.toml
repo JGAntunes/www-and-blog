@@ -1,15 +1,17 @@
 # example netlify.toml
 [build]
-  command = "env"
+  command = "echo YOLO"
   functions = "functions"
   publish = "docs"
 
 [build.environment]
   NETLIFY_BUILD_DEBUG = "true"
   HUGO_VERSION = "0.80.0"
-  NODE_VERSION = "4"
+  NODE_VERSION = "8.17.0"
   # BUILD_TELEMETRY_DISABLED = "true"
 
+[[plugins]]
+  package = "@netlify/plugin-lighthouse"  
 # [[plugins]]
   # runs QA Wolf tests against the deployed URL
   # package = "netlify-plugin-qawolf"  
