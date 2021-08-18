@@ -14,7 +14,7 @@
   package = "netlify-plugin-cache"
   [plugins.inputs]
   # Optional (but highly recommended). Defaults to [".cache"].
-  paths = ["docs"]
+  paths = ["docs", "junk-files"]
 # [[plugins]]
   # runs QA Wolf tests against the deployed URL
   # package = "netlify-plugin-qawolf"  
