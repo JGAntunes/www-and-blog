@@ -15,12 +15,11 @@ Previously I was:
 * Coordinator at [SINFO](https://sinfo.org) (biggest tech event in Portugal)
 * Node.JS Developer @ Muzzley
 
-## Research & Relevant Work
+## Research & Other Relevant Work
 
 * [Pulsarcast](https://github.com/jgantunes/pulsarcast), my M.Sc. Thesis at Técnico Lisboa, a scalable and reliable pub-sub system over P2P networks.
   * [Pulsarcast JS](https://github.com/jgantunes/js-pulsarcast), a Javascript implementation of Pulsarcast built using [libp2p](https://libp2p.io).
   * [Pulsarcast: Scalable, Reliable Pub-Sub over P2P Nets](https://ieeexplore.ieee.org/abstract/document/9472799), the published conference paper with the outcome of my M.Sc. Thesis.
-* [IPFS Testbed](https://github.com/jgantunes/ipfs-testbed), a testbed for [JS-IPFS](https://github.com/ipfs/js-ipfs) built using [Toxiproxy](https://github.com/shopify/toxiproxy) and Kubernetes.
 * [IPFS Testbed](https://github.com/jgantunes/ipfs-testbed), a testbed for [JS-IPFS](https://github.com/ipfs/js-ipfs) built using [Toxiproxy](https://github.com/shopify/toxiproxy) and Kubernetes.
 
 ## Public Talks
