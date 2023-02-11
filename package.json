@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "@netlify/plugin-edge-handlers": "^1.11.6",
-    "@netlify/plugin-lighthouse": "^2.1.2",
+    "@netlify/plugin-lighthouse": "^4.0.7",
     "netlify-plugin-cache": "^1.0.3"
   },
   "scripts": {
