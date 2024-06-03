@@ -1,7 +1,7 @@
 # Override these settings with your own
 languageCode = "en-uk"
 baseURL = "https://jgantunes.com/"
-copyright = "© 2020"
+copyright = "© 2024"
 title = "João Antunes - @jgantunes"
 publishDir = "docs"
 
@@ -26,7 +26,7 @@ theme = "codex"
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
   twitter = "https://twitter.com/jgantunes"
   github = "https://github.com/jgantunes"
-  email = "mailto:me@jgantunes.com"
+  email = "mailto:site@jgantunes.com"
   # facebook = "https://facebook.com/<your handle>"
   gitlab = "https://gitlab.com/jgantunes"
   # instagram = "https://instagram.com/<your handle>"
@@ -39,7 +39,7 @@ theme = "codex"
   iconTitles = ["Twitter", "GitHub"]
 
   name = "João Antunes"
-  description = "Software Engineer at YLD, M.Sc. graduate at Técnico Lisboa. I'm a person who loves to build, learn and occasionally attempts to be funny (most of the times just to fail miserably)."
+  description = "Staff Software Engineer at Netlify, M.Sc. graduate at Técnico Lisboa. I'm a person who loves to build, learn and occasionally attempts to be funny."
 
 # This disables Hugo's default syntax highlighting in favor
 # of prismjs. If you wish to use Hugo's default syntax highlighting

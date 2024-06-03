@@ -4,12 +4,9 @@
     <title>Categories on João Antunes - @jgantunes</title>
     <link>https://jgantunes.com/categories/</link>
     <description>Recent content in Categories on João Antunes - @jgantunes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-uk</language>
-    <copyright>© 2020</copyright>
-    
-	<atom:link href="https://jgantunes.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>© 2024</copyright>
+    <atom:link href="https://jgantunes.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

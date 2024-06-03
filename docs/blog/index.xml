@@ -4,22 +4,17 @@
     <title>Blogs on João Antunes - @jgantunes</title>
     <link>https://jgantunes.com/blog/</link>
     <description>Recent content in Blogs on João Antunes - @jgantunes</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-uk</language>
-    <copyright>© 2020</copyright>
+    <copyright>© 2024</copyright>
     <lastBuildDate>Wed, 24 Jun 2020 19:18:55 +0100</lastBuildDate>
-    
-	<atom:link href="https://jgantunes.com/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://jgantunes.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wassup World</title>
       <link>https://jgantunes.com/blog/wassup-world/</link>
       <pubDate>Wed, 24 Jun 2020 19:18:55 +0100</pubDate>
-      
       <guid>https://jgantunes.com/blog/wassup-world/</guid>
       <description>So, I guess it was about time to start writing something. Over here you&amp;rsquo;ll find my ramblings about software engineering and tech in general.</description>
     </item>
-    
   </channel>
 </rss>
